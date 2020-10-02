@@ -1,9 +1,9 @@
 #!/usr/bin/python2
 #coding=utf-8
-#Codded By Jam Shahrukh
+#Codded By Mohsin Ali
 #Editing My Script Will Not Make You A Coder
-#Facebook : JAM Shahrukh
-#Whatsapp : ++971528752764
+#Facebook : Mohsin Raza
+#Whatsapp : ++9230631128**
 #Pakistan Cyber Expert
 #Alone Coder 
 import os,sys,time,datetime,random,hashlib,re,threading,json,urllib,cookielib,requests,mechanize
@@ -51,7 +51,7 @@ def jalan(z):
 ##### INTRO #####
 logo ="""
 
-
+\x1b[1;97m
 ██╗░░██╗░█████╗░░██████╗░██████╗░█████╗░███╗░░██╗
 ██║░░██║██╔══██╗██╔════╝██╔════╝██╔══██╗████╗░██║
 ███████║███████║╚█████╗░╚█████╗░███████║██╔██╗██║
