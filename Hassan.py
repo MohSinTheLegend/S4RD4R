@@ -211,7 +211,7 @@ def hop():
 	elif hack =="1":
 		super()
 	elif hack =="2":
-	        os.system('xdg-open https://m.youtube.com/channel/UC9WrBDOtapBcVXXKhmVUoCg')
+	        os.system('xdg-open https://www.facebook.com/MOHSIN.ALI.ALL.HATERX.KA.PAPA.FEEL.THE.POWER')
 	        menu()
         
 	elif hack =="0":
