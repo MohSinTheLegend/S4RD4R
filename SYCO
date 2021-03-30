@@ -95,7 +95,7 @@ def load():
             pbar.update(1)
 
 
-logo = '\x1b[1;91m\n \x1b[1;91m  _________                           .__\n  /   _____/ ____   ____   ______ ____ |__|\n  \\_____  \\_/ __ \\ /    \\ /  ___// __ \\|  |\n \x1b[1;97m /        \\  ___/|   |  \\___  \\   ___/|  |\n /_______  /\\___  >___|  /____  >\\___  >__|\n         \\/     \\/     \\/     \\/     \\/\n\n            \x1b[1;41m MOHSIN ALI IT'S NOT ONLY NAME IT'S BRAND BABY ! \x1b[00m \x1b[1;97m\n~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~\n  \x1b[1;97m[\x1b[1;92m\xe2\x80\xa2\x1b[1;97m] Author : Aleeju\n  \x1b[1;97m[\x1b[1;92m\xe2\x80\xa2\x1b[1;97m] Github : github.com/BOT-033/Sensei\n  \x1b[1;97m[\x1b[1;92m\xe2\x80\xa2\x1b[1;97m] Groups : Tricker Facebook Indonesia\n~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~\x1b[00m'
+logo = '\x1b[1;91m\n \x1b[1;91m  _________                           .__\n  /   _____/ ____   ____   ______ ____ |__|\n  \\_____  \\_/ __ \\ /    \\ /  ___// __ \\|  |\n \x1b[1;97m /        \\  ___/|   |  \\___  \\   ___/|  |\n /_______  /\\___  >___|  /____  >\\___  >__|\n         \\/     \\/     \\/     \\/     \\/\n\n            \x1b[1;41m MOHSIN ALI! \x1b[00m \x1b[1;97m\n~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~\n  \x1b[1;97m[\x1b[1;92m\xe2\x80\xa2\x1b[1;97m] Author : Aleeju\n  \x1b[1;97m[\x1b[1;92m\xe2\x80\xa2\x1b[1;97m] Github : github.com/BOT-033/Sensei\n  \x1b[1;97m[\x1b[1;92m\xe2\x80\xa2\x1b[1;97m] Groups : Tricker Facebook Indonesia\n~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~\x1b[00m'
 back = 0
 berhasil = []
 cekpoint = []
